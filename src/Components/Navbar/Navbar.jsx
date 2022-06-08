@@ -11,7 +11,7 @@ export const NavbarIs = () => {
 
    <Navbar  collapseOnSelect expand="lg" bg="black" variant="dark">
   <Container className="navbar" >
-  <Navbar.Brand href="/">KAPDE</Navbar.Brand>
+  <Navbar.Brand href="/">Fashion Store</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto">
